@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_ex_final", "wpf_ex_final\wpf_ex_final.csproj", "{D209DD37-7BBB-4EB5-B95C-FAB9A353B0C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_master_detail_base", "wpf_master_detail_base\wpf_master_detail_base.csproj", "{D209DD37-7BBB-4EB5-B95C-FAB9A353B0C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
